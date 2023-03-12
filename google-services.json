@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512526058005",
+    "project_id": "comedy-1f34a",
+    "storage_bucket": "comedy-1f34a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512526058005:android:a2c61778e6aa4ebc40441c",
+        "android_client_info": {
+          "package_name": "com.example.newone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512526058005-0ib14vm3dn59ng1frg1j3qni037q5lkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxNXvDz0jkuNjCGLM-n5UhTyVUHbZi8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512526058005-0ib14vm3dn59ng1frg1j3qni037q5lkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
